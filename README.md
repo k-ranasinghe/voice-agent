@@ -22,8 +22,8 @@ A full-stack conversational AI platform for banking customer service, built with
 
 1. **Clone repository**:
 ```bash
-git clone https://github.comk-ranasinghe/bank-call-agent.git
-cd "bank-call-agent"
+git clone https://github.comk-ranasinghe/voice-agent.git
+cd "voice-agent"
 ```
 
 2. **Create Python virtual environment**:
